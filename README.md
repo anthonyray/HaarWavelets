@@ -54,3 +54,7 @@ Output :
 0.75, 1.75, 1.0, -1.5
 -14.875, 5.375, 0.5, 0.25
 ```
+
+### Applying to images
+
+Using the ```ImageMatrixIO``` class, you can convert an RGB image to a matrix and a matrix to an RGB image. An example is written in the ```Demo``` class.
